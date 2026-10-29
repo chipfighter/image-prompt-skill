@@ -1,0 +1,4 @@
+interface:
+  display_name: "生图摄影转译"
+  short_description: "把口语创意转成摄影语言，直接调用生图工具制作静帧和视频关键帧"
+  default_prompt: "用 $image-prompt 把我的想法转成摄影术语，并直接生成图片。"
